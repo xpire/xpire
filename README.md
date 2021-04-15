@@ -1,6 +1,6 @@
 # Hi, my name is Justin Or
 - see my [website](https://justinor.dev)
-- I'm a 4th year Computer Science and Mathematics student
+- I'm a final year Computer Science and Mathematics student
 - I'm majoring in Statistics, AI and Security!
 
 <!--
