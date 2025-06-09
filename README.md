@@ -1,7 +1,7 @@
 # Hi, my name is Justin Or
 - see my [website](https://justinor.dev)
 - I've graduated from UNSW with a degreen in Computer Science and Mathematics
-- I'm majored in Statistics, AI and Security!
+- I majored in Statistics, AI and Security!
 - I worked at Optiver as a backend engineer
 - I'm now working at Canva as a backend engineer
 
