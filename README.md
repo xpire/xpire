@@ -1,7 +1,9 @@
 # Hi, my name is Justin Or
 - see my [website](https://justinor.dev)
-- I'm a final year Computer Science and Mathematics student
-- I'm majoring in Statistics, AI and Security!
+- I've graduated from UNSW with a degreen in Computer Science and Mathematics
+- I'm majored in Statistics, AI and Security!
+- I worked at Optiver as a backend engineer
+- I'm now working at Canva as a backend engineer
 
 <!--
 **xpire/xpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
